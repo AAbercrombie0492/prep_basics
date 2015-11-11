@@ -777,6 +777,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 *Your explanation here!*
 
+#### How do you verify the origin of your GitHub remote?
+
+Type $git remove -v to see the URL for your fork as origin, then the URL for the original repository as upstream.
+*Contributed by [Anthony Abercrombie](https://github.com/AAbercrombie0492)*
+
 #### How do you check the status of your current repo in git?
 
 git status
